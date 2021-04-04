@@ -7,7 +7,6 @@
 อย่าเข้ามาส่องเปล่าๆสิ กด follow ด้วย
 
 ### ช่วงนี้กำลังทำ
-* ช่วย contribute 9armbot ([thananon/twitch_tools](https://github.com/thananon/twitch_tools))
 * เปิด repository เรื่อยเปื่อย เกี่ยวกับพวกเว็บ (PHP, Javascript)
 
 <!--

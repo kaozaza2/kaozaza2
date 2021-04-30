@@ -8,6 +8,7 @@
 
 ### ช่วงนี้กำลังทำ
 * เปิด repository เรื่อยเปื่อย เกี่ยวกับพวกเว็บ (PHP, Javascript)
+* กำลังฝึกทำ laravel ให้ช่ำ 😑
 
 <!--
 **kaozaza2/kaozaza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
